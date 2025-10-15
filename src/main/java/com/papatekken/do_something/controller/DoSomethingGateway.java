@@ -13,4 +13,5 @@ public class DoSomethingGateway {
     public ResponseEntity<String> greeting(){
         return ResponseEntity.ok("hello world");
     }
+
 }
